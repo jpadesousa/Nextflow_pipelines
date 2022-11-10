@@ -1,5 +1,6 @@
 # Nextflow NME pipelines
-Nextflow pipelines available for the NME users in the ETH Zürich Euler cluster.
+Nextflow pipelines available for the NME users in the ETH Zürich Euler cluster.<p/>
+The pipelines were adapted from the repository https://github.com/s-andrews/nextflow_pipelines from the The Babraham Institute.
 
 <img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextflow_logo.png" />
 <img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg" />
